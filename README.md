@@ -3,7 +3,7 @@
 ###Class:Tian Juan
 ###Student ID:2014301020137
 ###Homework Lists：
-[Homework_01](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Exercise_01.md "悬停显示")<br>
+[Homework_01](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Exercise_01.md "已完成")<br>
 [Homework_02]()<br>
 [Homework_03]()<br>
 [Homework_04]()<br>
