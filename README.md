@@ -1,4 +1,6 @@
-#Name:李湘黔
+#Name:Li xiangqian
+##School of Physics and Technology, Wuhan University
+##Class:Tian Juan
 ##Homework Lists：
 [Exercise_01](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Exercise_01)<br>
 [Exercise_02]()<br>
