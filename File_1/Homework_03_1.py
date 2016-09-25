@@ -7,7 +7,7 @@ import os
 n=1 
 k=1
 while True:
-    time.sleep(0.5) 
+    time.sleep(0.2) 
     i = os.system('cls') 
     if n%4 == 1:
         print a[0]
