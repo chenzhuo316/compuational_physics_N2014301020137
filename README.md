@@ -7,7 +7,7 @@
 ##**Homework Lists：**
 :paperclip: [Homework_01](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Exercise_01.md "Finished")<br>
 :paperclip: [Homework_02]( https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter-1/Exercise_02.md "Finished")<br>
-:paperclip: [Homework_03]( "nope")<br>
+:paperclip: [Homework_03](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter-1/Exercise_03.md "Finished")<br>
 :paperclip: [Homework_04]( "nope")<br>
 :paperclip: [Homework_05]( "nope")<br>
 :paperclip: [Homework_06]( "nope")<br>
