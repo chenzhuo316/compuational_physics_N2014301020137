@@ -1,5 +1,5 @@
-## 作业1.5
-####要解方程：<br>
+ ## 作业1.5
+###要解方程：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/1.png)<br>
 两式相加：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/2.png)<br>
@@ -11,7 +11,7 @@
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/5.png)<br>
 带入初始条件则有：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/6.png)<br>
-####编辑代码如下：<br>
+###编辑代码如下：<br>
 ```python
 import pylab as pl
 class nuclei_decay:
@@ -65,7 +65,7 @@ a.calculate()
 a.show_results()
 a.store_results()
 ```
-####运行程序得到结果如图：<br>
+###运行程序得到结果如图：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/7.JPG)<br>
-####结论： 
-系统趋于一个稳定状态，N(A)和N(B)都于常数，切其微商都趋于零。  
+###结论： 
+系统趋于一个稳定状态，N(A)和N(B)都于常数，且其微商都趋于零。  
