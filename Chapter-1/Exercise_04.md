@@ -1,4 +1,4 @@
- ## 作业1.5
+## 作业1.5
 ###要解方程：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/1.png)<br>
 两式相加：<br>
