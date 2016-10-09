@@ -12,4 +12,5 @@
 带入初始条件则有：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/6.png)<br>
 
-
+运行程序得到结果如图：<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_04/7.JPG)<br>
