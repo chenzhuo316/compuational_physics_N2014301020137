@@ -8,7 +8,7 @@ Compare your results with those in Figure 2.4,and with the exact solution.<br>
 其中：<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/Exercise_05/2.png)<br>
 ####程序代码如下
-```
+```python
 import pylab as pl
 import math as mt
 class cannon_shells:
