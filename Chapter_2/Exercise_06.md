@@ -172,6 +172,7 @@ for i in range(3):
 pl.show(figure)
 ```
 ####作业截图：<br>
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/6.1.png)
-
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/6.1.png)<br>
+####当发射位置高于目标时如下：<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/6.2.png)<br>
 ####总结：
