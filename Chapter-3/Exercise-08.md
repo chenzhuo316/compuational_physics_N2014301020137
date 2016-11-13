@@ -44,10 +44,7 @@ a.calculate()
 a.show_results()
 ```
 ####The results like that:  
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.4.png) 
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.5.png) 
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.6.png)
-
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.1.png) 
 
 
 
