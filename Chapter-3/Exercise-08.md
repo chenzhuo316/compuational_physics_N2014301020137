@@ -49,8 +49,8 @@ a.calculate()
 a.show_results()
 ```
 ####The results like that:  
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.1.png) 
-===
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.2.png)    
+=====
 ####Use the following code, we get the results for θ as a function of time: 
 ```python
 import math
@@ -93,5 +93,4 @@ a.calculate()
 a.show_results()
 ```
 ####This is the result: 
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.2.png)
-
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/8.1.png) 
