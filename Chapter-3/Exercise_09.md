@@ -175,3 +175,4 @@ plt.show()
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/9.3.png)<br>
 ##再改变一下初始角度，得到更有趣的结果    
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/9.4.png)<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/9.5.png)<br>
