@@ -1,13 +1,14 @@
 第十次作业
 ===
+###Precession of the periheloin of Mericury 
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.1.gif)<br>
-The force law predicted by general relativity is  
+####The force law predicted by general relativity is  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.2.png)<br>
-Conservation of total energy:   
+####Conservation of total energy:   
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.3.png)<br>
-Conservation of the angular momentum:
+####Conservation of the angular momentum:
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.4.png)<br>
-Then  
+####Then  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.5.png)<br>
 ####For different elliptical orbits with different eccentricities,but with the same perihelion.<br>
 ####we use this code to simulate the motion of the plant  
@@ -87,7 +88,7 @@ plt.plot(e,rate,'oy')
 plt.plot(e,rate,'-r')
 plt.show()
 ```
-Then we get the results like that:  
+####Then we get the results like that:  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.6.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.7.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.8.png)<br>
