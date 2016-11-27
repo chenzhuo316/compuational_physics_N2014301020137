@@ -92,3 +92,4 @@ plt.show()
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.6.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.7.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.8.png)<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.9.mp4)
