@@ -2,6 +2,7 @@
 ===
 ##Precession of the periheloin of Mericury 
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.1.gif)<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.10.jpg)<br>
 ####The force law predicted by general relativity is  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.2.png)<br>
 ####Conservation of total energy:   
@@ -93,4 +94,3 @@ plt.show()
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.7.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.8.png)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.9.jpg)<br>
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/10.10.jpg)<br>
