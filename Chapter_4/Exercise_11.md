@@ -1,5 +1,8 @@
 第十一次作业
 ===
+Chaotic tumbling of Hyperion
+Exercise4.20    
+
 ```python
 from math import pi,sqrt,sin,cos
 import matplotlib.pyplot as plt
@@ -140,8 +143,8 @@ plt.ylabel('dtheta(radians)')
 plt.xlim(0,15)
 plt.show()
 ```
-![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.2.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.3.jpg)<br>
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.2.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.4.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.5.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.6.jpg)<br>
@@ -150,15 +153,3 @@ plt.show()
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.9.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.10.jpg)<br>
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/11.11.jpg)<br>
-
-
-
-
-
-
-
-
-
-
-
-
