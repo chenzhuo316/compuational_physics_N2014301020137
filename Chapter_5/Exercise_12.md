@@ -11,12 +11,12 @@ Another conceivable way is
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.3.png)<br>
 or  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.4.png)<br>
-Thus, it is natural to write the second partial derivative as 
+Thus, it is natural to write the second partial derivative as   
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.5.png)<br>
 Where the notation here is intended to indicate that the derivatives are to be evaluated at the location (i±½)  
-This leads to 
+This leads to   
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.6.png)<br>
-and at littlerearranging yields 
+and at littlerearranging yields   
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.7.png)<br>
 Iserting them all into Laplace's equation and solving for V(i,j,k) we find  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/12.8.png)<br>
