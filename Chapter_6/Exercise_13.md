@@ -169,6 +169,7 @@ ylabel('Power(arbitrary units)')
 title('Guitar Power spectrum:Pluck at 1/20')
 show()
 ```
+###ResultS: 
 ![](http://p1.bpimg.com/1949/a886da85489386a2.png)<br>
 ![](http://p1.bpimg.com/1949/8bf0b4c1b377064b.jpg)<br>
 ![](http://p1.bpimg.com/1949/5ff3cb1a2fa7692d.png)<br>
