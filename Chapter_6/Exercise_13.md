@@ -16,6 +16,77 @@
 from matplotlib import animation
 from pylab import*
 import numpy as np
+c=300.0
+dx=0.01
+dt=0.01
+t=0.0
+
+y=[]
+l=np.linspace(0,1,100)#x-axis
+y0=np.exp(-1000*(l-0.3)**2)#y-axis it's a wave package locates at x=0.3
+y0_2=np.exp(-1000*(l-0.7)**2)+np.exp(-700*(l-0.7)**2)    
+
+def w():
+    global t,dt
+    y.append(y0_2)
+    y.append(y0_2)
+    while t<100.0:
+        y_next=np.zeros(100)
+
+        for i in range(1,98):
+            y_next[i]=-y[-2][i]+y[-1][i+1]+y[-1][i-1]
+
+        y.append(y_next)
+        t=t+dt
+    return y, t
+#print w()[0] ,w()[1]
+
+def w2():
+    global t,dt
+    y.append(y0)
+    y.append(y0)
+    while t<100.0:
+        y_next=np.zeros(100)
+
+        for i in range(1,98):
+            if i<50:
+                y_next[i]=-y[-2][i]+y[-1][i+1]+y[-1][i-1]
+            else: 
+                y_next[i]=2*(1-0.5)*y[-1][i]-y[-2][i]+0.5*(y[-1][i+1]+y[-1][i-1])
+        y.append(y_next)
+        t=t+dt
+    return y, t
+#print w()[0] ,w()[1]
+
+a=w()[0]
+a=w()[0]
+f=figure()
+ax=axes(xlim=(0,1),ylim=(-1.2,1.2))
+line, =ax.plot([],[],lw=2)
+
+def animate(i):
+    line.set_data(l,a[i])
+    return line,
+def init():
+    line.set_data([],[])
+    return line,
+anim=animation.FuncAnimation(f,animate,init_func=init,frames=200,interval=50,blit=True)#frames mean zhenshu,interval mean each frame last how long
+show()
+
+```
+
+###The rresults:  
+######During the course of a calculation,the time index n will run from the initial time(n=0) to some final value corresponding to the ######time interval of interest.Sincd the string is modeled as a large number of discrete elements,I generate a lot of "data", but I ######only need to store information for 3 consecutive time step. 
+![](http://p1.bqimg.com/1949/e1456be6a213d42c.gif)<br>
+![](http://p1.bqimg.com/1949/0eebcc4595975704.gif)<br>
+
+
+######These peaks can in terms of the standing waves that are found for a string with fixed ends.The standing waves with the longest ######wavelength has a wavelength λ1 > 2L ,the other standing waves have wavelengths of L, 2L/3.These standing waves can be thought of ######as the basic spatial Fourier components of the strin motion
+###Code2
+```python
+from matplotlib import animation
+from pylab import*
+import numpy as np
 c=320.0
 dx=6.5*1e-4
 l=np.linspace(0,0.65,1000)
@@ -98,9 +169,4 @@ ylabel('Power(arbitrary units)')
 title('Guitar Power spectrum:Pluck at 1/20')
 show()
 ```
-###The rresults:  
-![](http://p1.bqimg.com/1949/e1456be6a213d42c.gif)<br>
-![](http://p1.bqimg.com/1949/0eebcc4595975704.gif)<br>
-
-
 
