@@ -76,12 +76,12 @@ show()
 ```
 
 ###The rresults:  
-######During the course of a calculation,the time index n will run from the initial time(n=0) to some final value corresponding to the ######time interval of interest.Sincd the string is modeled as a large number of discrete elements,I generate a lot of "data", but I ######only need to store information for 3 consecutive time step. 
+######During the course of a calculation,the time index n will run from the initial time(n=0) to some final value corresponding to the time interval of interest.Sincd the string is modeled as a large number of discrete elements,I generate a lot of "data", but I only need to store information for 3 consecutive time step. 
 ![](http://p1.bqimg.com/1949/e1456be6a213d42c.gif)<br>
 ![](http://p1.bqimg.com/1949/0eebcc4595975704.gif)<br>
 
 
-######These peaks can in terms of the standing waves that are found for a string with fixed ends.The standing waves with the longest ######wavelength has a wavelength λ1 > 2L ,the other standing waves have wavelengths of L, 2L/3.These standing waves can be thought of ######as the basic spatial Fourier components of the strin motion
+######These peaks can in terms of the standing waves that are found for a string with fixed ends.The standing waves with the longest wavelength has a wavelength λ1 > 2L ,the other standing waves have wavelengths of L, 2L/3.These standing waves can be thought of as the basic spatial Fourier components of the strin motion
 ###Code2
 ```python
 from matplotlib import animation
@@ -169,4 +169,9 @@ ylabel('Power(arbitrary units)')
 title('Guitar Power spectrum:Pluck at 1/20')
 show()
 ```
+![](http://p1.bpimg.com/1949/a886da85489386a2.png)<br>
+![](http://p1.bpimg.com/1949/8bf0b4c1b377064b.jpg)<br>
+![](http://p1.bpimg.com/1949/5ff3cb1a2fa7692d.png)<br>
+
+####Thanks for the code of Wufanfafn
 
