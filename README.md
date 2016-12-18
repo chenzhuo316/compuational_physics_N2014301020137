@@ -17,5 +17,6 @@
 :paperclip: [Homework_10 (作业4.8-4.11)](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_4/Exercise_10.md "Finished")<br>
 :paperclip: [Homework_11 (作业4.19-4.20)](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_4/Exercise_11.md "Finished")<br>
 :paperclip: [Homework_12 (作业5.1-5.10)](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_5/Exercise_12.md "Finished")<br>
-:paperclip: [Homework_13]( "nope")<br>
+:paperclip: [Homework_13 (作业6.9-6.17)](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_6/Exercise_13.md "Finished")<br>
+:paperclip:[:point_right:期末作业:point_left:]()
 :point_right: [回到顶部](#readme) 
