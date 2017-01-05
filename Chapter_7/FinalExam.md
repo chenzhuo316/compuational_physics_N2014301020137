@@ -33,13 +33,13 @@ This equation has the solutions \<s>=0 and<br>
 We will consider about a Ising model on an 10×10 square lattice.<br>
 [The code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)<br>
 From the Simulations we obtain the magnetization as a function of T,  
-![]()<br>
+![](http://i1.piimg.com/1949/aa7b769b1ab503c1.png)<br>
 The average enregy  
-![]()<br>
+![](http://i1.piimg.com/1949/9148f5e3a203d7b2.png)<br>
 The heat capacity 
-![]()<br>
+![](http://i1.piimg.com/1949/701f0f40206c4d22.png)<br>
 The magnetic susceptibility 
-![]()<br>
+![](http://i1.piimg.com/1949/8dee68e0dd868e20.png)<br>
 
 
 
