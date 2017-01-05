@@ -29,7 +29,25 @@ When \<s> is small it becames<br>
 This equation has the solutions \<s>=0 and<br>
 ![](http://p1.bqimg.com/1949/8ef10facaa063938.png)<br>
 **Now we will calculate the Magnetization and the energy of Ising model**
+We will consider about a Ising model on an 10×10 square lattice.
+[The code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)
+From the Simulations we obtain the magnetization as a function of T,  
 ![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/p1.png)<br>
+The average enregy  
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/p1.png)<br>
+The heat capacity 
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/p1.png)<br>
+The magnetic susceptibility 
+![](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/File_2/p1.png)<br>
+
+
+
+
+
+
+
+
+
 
 
 
