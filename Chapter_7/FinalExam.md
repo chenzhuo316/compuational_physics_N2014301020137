@@ -18,6 +18,15 @@ wher C is a coeffcient that can be determined by requiring that the two probabil
 ![](http://p1.bqimg.com/1949/4acf3c05f7e13b37.png)<br>
 The thermal average of s(i) can then be calculted as<br>
 ![](http://p1.bqimg.com/1949/493bcba5f49a579d.png)<br>
+The energy function can be rewritten in the suggestive form<br>
+![](http://p1.bqimg.com/1949/920df3a890924940.png)<br>
+which shows that the term involving J has the form of a magnetic field with ![](http://p1.bqimg.com/1949/587b29a8ee5aa20c.png).We asume that the spin variables s(j) inn this expression for effective field can be replaced by their thermal averages.Then we have<br>
+![](http://p1.bqimg.com/1949/e293c4249fed2c0e.png)<br>
+where z is the number of nearest neighbors.<br>
+![](http://p1.bpimg.com/1949/d304ad4bb593d243.png)<br>
+
+
+
 
 
 
