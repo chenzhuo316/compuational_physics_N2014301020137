@@ -29,7 +29,7 @@ When **\<s>** is small it becames<br>
 ![](http://p1.bqimg.com/1949/d941732daf6e4c99.png)<br >
 This equation has the solutions **\<s>=0 **and<br>
 ![](http://p1.bqimg.com/1949/8ef10facaa063938.png)<br>
-**Now we will calculate the Magnetization and the energy of Ising model**<br>
+** Now we will calculate the Magnetization and the energy of Ising model**<br>
 We will consider about a Ising model on an 10×10 square lattice.<br>
 **[The code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)**<br>
 After about an hour(we should give the computer enough time to do this work, since it is really a complex things with a large number of steps), we obtain those result <br>
