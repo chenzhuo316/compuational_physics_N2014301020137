@@ -27,9 +27,9 @@ where **z** is the number of nearest neighbors.Hence we obtain the result:<br>
 ![](http://p1.bpimg.com/1949/d304ad4bb593d243.png)<br>
 When **\<s>** is small it becames<br>
 ![](http://p1.bqimg.com/1949/d941732daf6e4c99.png)<br >
-This equation has the solutions **\<s>=0 **and<br>
+This equation has the solutions \<s>=0 and<br>
 ![](http://p1.bqimg.com/1949/8ef10facaa063938.png)<br>
-**Now we will calculate the Magnetization and the energy of Ising model<br>**
+**Now we will calculate the Magnetization and the energy of Ising model**<br>
 We will consider about a Ising model on an 10×10 square lattice.<br>
 **This is [the code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)**<br>
 After about an hour(we should give the computer enough time to do this work, since it is really a complex things with a large number of steps), we obtain those result <br>
