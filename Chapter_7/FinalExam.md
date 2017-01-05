@@ -24,6 +24,10 @@ which shows that the term involving J has the form of a magnetic field with![](h
 ![](http://p1.bqimg.com/1949/e293c4249fed2c0e.png)<br>
 where z is the number of nearest neighbors.Hence we obtain the result:<br>
 ![](http://p1.bpimg.com/1949/d304ad4bb593d243.png)<br>
+When \<s> is small it becames<br>
+![](http://p1.bqimg.com/1949/d941732daf6e4c99.png)<br >
+This equation has the solutions \<s>=0 and<br>
+![](http://p1.bqimg.com/1949/8ef10facaa063938.png)<br>
 
 
 
