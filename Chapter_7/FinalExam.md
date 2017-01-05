@@ -12,11 +12,12 @@ The magnetization is closely related to the average spin alignment\<s>,where the
 ![](http://i1.piimg.com/1949/9ebeb1e06f2f1f43.png)<br>
 If we add a magnetic field to the problem, the energy function becomes<br>
 ![](http://i1.piimg.com/1949/5213d46f9c8888e4.png)<br>
-where H is the magnetic field and μ is the magnetic moment associated with each spin.This field will tend to make the orient themselves parallel to H, since this lowers the energy.
-
-
-
-
+where H is the magnetic field and μ is the magnetic moment associated with each spin.This field will tend to make the orient themselves parallel to H, since this lowers the energy.For a single spin has two possible states, s=±1,whose energy are E(±)=∓μH.The probabilities of finding the "system" in these two states P(±) are given by<br>
+![](http://p1.bqimg.com/1949/4eee268bf5e5c1c7.png)<br>
+wher C is a coeffcient that can be determined by requiring that the two probabilities add up to unity. This yields<br>
+![](http://p1.bqimg.com/1949/4acf3c05f7e13b37.png)<br>
+The thermal average of s(i) can then be calculted as<br>
+![](http://p1.bqimg.com/1949/493bcba5f49a579d.png)<br>
 
 
 
