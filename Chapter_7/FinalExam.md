@@ -22,7 +22,7 @@ The energy function can be rewritten in the suggestive form<br>
 ![](http://p1.bqimg.com/1949/920df3a890924940.png)<br>
 which shows that the term involving J has the form of a magnetic field with![](http://p1.bpimg.com/1949/182e32656ceed292.png).We asume that the spin variables s(j) inn this expression for effective field can be replaced by their thermal averages.Then we have<br>
 ![](http://p1.bqimg.com/1949/e293c4249fed2c0e.png)<br>
-where z is the number of nearest neighbors.<br>
+where z is the number of nearest neighbors.Hence we obtain the result:<br>
 ![](http://p1.bpimg.com/1949/d304ad4bb593d243.png)<br>
 
 
