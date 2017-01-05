@@ -29,21 +29,19 @@ When **\<s>** is small it becames<br>
 ![](http://p1.bqimg.com/1949/d941732daf6e4c99.png)<br >
 This equation has the solutions **\<s>=0 **and<br>
 ![](http://p1.bqimg.com/1949/8ef10facaa063938.png)<br>
-** Now we will calculate the Magnetization and the energy of Ising model**<br>
+**Now we will calculate the Magnetization and the energy of Ising model** <br>
 We will consider about a Ising model on an 10×10 square lattice.<br>
-**[The code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)**<br>
+**This is [the code](https://github.com/kolir/compuational_physics_N2014301020137/blob/master/Chapter_7/IsingModel.py)**<br>
 After about an hour(we should give the computer enough time to do this work, since it is really a complex things with a large number of steps), we obtain those result <br>
 **The magnetization as a function of T**<br>
 ![](http://i1.piimg.com/1949/aa7b769b1ab503c1.png)<br>
 **The average enregy**<br>
-At low temperatures, with the spins fully aligned, every spin has an interaction energy of **-J** with each of its four nearest neighbors.The Total energy at **T=0** at **T=0** should be **-4NJ/2**,where **N** is the number of spins and the factor 2 is inserted sincce we have counted each pair of spins twice.<br>
+At low temperatures, with the spins fully aligned, every spin has an interaction energy of **-J** with each of its four nearest neighbors.The Total energy at **T=0** at **T=0** should be **-4NJ/2**,where **N** is the number of spins and the factor 2 is inserted sincce we have counted each pair of spins twice.The resuls we obtain is in good agreement with this result in the limit **T=0**<br>
 ![](http://i1.piimg.com/1949/9148f5e3a203d7b2.png)<br>
 **The heat capacity**<br>
 ![](http://i1.piimg.com/1949/701f0f40206c4d22.png)<br>
 **The magnetic susceptibility**<br>
 ![](http://i1.piimg.com/1949/8dee68e0dd868e20.png)<br>
-
-
 ##**Final**<br>
 In this course I have learned a lot about the computational simulation.Thanks for the teacher and the friends who talk about those knowledges with me.
 
